@@ -5,8 +5,8 @@
 '''
 import urllib.request,socket,re,sys,os
 
-baseUrl='http://cl.oiee.biz/'
-targetPath = "D:\\temp\\1024\\"
+baseUrl='http://cl.1c5.co/'
+targetPath = "D://temp//1024//"
 
 def getContant(Weburl):
     Webheader= {'Upgrade-Insecure-Requests':'1',
